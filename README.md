@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/medicophysique" target="blank"><img src="https://img.shields.io/twitter/follow/medicophysique?logo=twitter&style=for-the-badge" alt="medicophysique" /></a> </p>
 
-- 🔭 I’m currently working on [ChatApp](https://github.com/adnaan619/ChatApp)
 
 - 🌱 I’m currently learning **React and Laravel**
 
