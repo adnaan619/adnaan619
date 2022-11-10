@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/medicophysique" target="blank"><img src="https://img.shields.io/twitter/follow/medicophysique?logo=twitter&style=for-the-badge" alt="medicophysique" /></a> </p>
 
 
-- 🌱 I’m currently learning **React and Laravel**
+- 🌱 I’m currently learning **The MERN Stack**
 
 - 👯 I’m looking to collaborate on **E-commerce Applications**
 
