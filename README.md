@@ -24,6 +24,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://lottiefiles.com/share/eMNGT6" alt="Developer Animation" width="400"/>
+</p>
+
+---
+
 ### 💻 Languages and Tools
 <p align="center">
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
