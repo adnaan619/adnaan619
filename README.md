@@ -24,11 +24,6 @@
 
 ---
 
-<p align="center">
-  <img src="[https://lottiefiles.com/share/eMNGT6](https://lottie.host/877b3905-d475-4157-b653-015cfa48fa4f/77CEoVG3oa.lottie)" alt="Developer Animation" width="400"/>
-</p>
-
----
 
 ### 💻 Languages and Tools
 <p align="center">
