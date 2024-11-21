@@ -70,13 +70,3 @@
 </p>
 
 ---
-
-### ✨ Cool Additions
-- 🔗 **Dynamic Profile Badges**: 
-   - You can add achievements or dynamic progress trackers.
-   - Example: <img src="https://img.shields.io/badge/Learning-MERN_Stack-green?style=flat-square&logo=javascript" />
-- 🎨 **Themed Design**:
-   - Added a modern "radical" theme to all GitHub stats.
-   - Ensure this theme matches your profile's style.
-
----
